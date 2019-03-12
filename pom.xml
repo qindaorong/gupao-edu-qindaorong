@@ -13,7 +13,7 @@
     <module>factory-pattern</module>
     <!--单例-->
     <module>singleton-pattern</module>
-    <!--代理-->
+    <!--原型-->
     <module>prototype-pattern</module>
   </modules>
 
