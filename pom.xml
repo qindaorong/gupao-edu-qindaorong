@@ -15,6 +15,10 @@
     <module>singleton-pattern</module>
     <!--原型-->
     <module>prototype-pattern</module>
+    <!--委派模式-->
+    <module>delegate-pattern</module>
+    <!--适配器模式-->
+    <module>adapter-pattern</module>
   </modules>
 
   <properties>
