@@ -9,3 +9,4 @@ out
 gen
 /adapter-pattern/target/
 /delegate-pattern/target/
+/observer-pattern/target/

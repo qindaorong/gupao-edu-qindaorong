@@ -19,6 +19,8 @@
     <module>delegate-pattern</module>
     <!--适配器模式-->
     <module>adapter-pattern</module>
+    <!--观察者模式-->
+    <module>observer-pattern</module>
   </modules>
 
   <properties>
