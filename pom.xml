@@ -9,6 +9,8 @@
   <packaging>pom</packaging>
   <version>1.0</version>
   <modules>
+    <!--设计模式-->
+
     <!--工厂-->
     <module>factory-pattern</module>
     <!--单例-->
@@ -21,6 +23,12 @@
     <module>adapter-pattern</module>
     <!--观察者模式-->
     <module>observer-pattern</module>
+    <!--代理模式-->
+    <module>proxy-pattern</module>
+
+    <!--spring-->
+    <!--ioc-->
+    <module>spring/ioc-sequence-diagram</module>
   </modules>
 
   <properties>
